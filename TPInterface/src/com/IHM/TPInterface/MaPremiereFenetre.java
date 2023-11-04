@@ -2,9 +2,7 @@ package com.IHM.TPInterface;
 import javax.swing.JFrame;
 
 public class MaPremiereFenetre {
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		// TODO instancier la fenetre
 		JFrame maFenetreI = new JFrame();
@@ -22,3 +20,4 @@ public class MaPremiereFenetre {
 		maFenetreI.setLocationRelativeTo( null );
 	}
 }
+
